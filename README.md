@@ -1,5 +1,3 @@
-# volatility-smile
----
 # 1 Distribution
 ## 1.1 Reference
 - [x] Financial Market Complexity 
@@ -26,3 +24,4 @@
 - [ ] **FRY** Beautify the figures of the essay and zip them together to upload
 - [ ] **DWJ** Make sense of others' result
 - [ ] **DWJ** Research purpose, subject content,research method, research results, discussion and investigation, Conclusion
+
